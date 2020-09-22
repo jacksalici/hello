@@ -1,0 +1,50 @@
+{{ define "styles" }} {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }} {{ end }} {{ define "main" }}
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+
+
+<div class="splash-container">
+    <div class="splash">
+
+
+
+        <h1>I'm Jack Salici.</h1>
+        <h2>I am <span id="typed1"></span></h2>
+
+
+
+        <script>
+            var typed = new Typed('#typed1', {
+                strings: ['a creative.', 'a designer.', 'a developer.', 'a maker.', 'a geek.', 'Italian.'],
+                typeSpeed: 50,
+                backSpeed: 50,
+                showCursor: false,
+                smartBackspace: true,
+                loop: true,
+            });
+        </script>
+
+
+        {{ partial "social-icons.html" .}}
+
+
+        <!--
+            <h1>{{ .Params.heading }}.</span></h1>
+            {{ if isset .Params "handle" }}
+            <span class="handle">@{{ .Params.handle }}</span> {{ end }}
+            <h2>
+                {{ .Params.subheading }}
+            </h2>
+          
+        
+
+        -->
+
+
+
+
+
+    </div>
+</div>
+
+{{ end }}
