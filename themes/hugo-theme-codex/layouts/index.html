@@ -8,18 +8,32 @@
 
 
 
-        <h1>I'm Jack Salici.</h1>
-        <h2>I am <span id="typed1"></span></h2>
+        <h1>I'm Jack Salici.🌵</h1>
+        <h2>I am an italian <span id="typed1"> </span> </h2>
 
 
 
         <script>
             var typed = new Typed('#typed1', {
-                strings: ['a creative.', 'a designer.', 'a developer.', 'a maker.', 'a geek.', 'Italian.'],
+                strings: ['creative', 'designer', 'developer', 'maker', 'engineering student'],
                 typeSpeed: 50,
                 backSpeed: 50,
                 showCursor: false,
+                cursorChar: '',
                 smartBackspace: true,
+                loop: true,
+            });
+        </script>
+
+        <script>
+            var typed = new Typed('#typed2', {
+                strings: ['💻', '🌵'],
+                typeSpeed: 500,
+                backSpeed: 500,
+                showCursor: false,
+                smartBackspace: false,
+                fadeOut: true,
+                fadeOutClass: 'typed-fade-out',
                 loop: true,
             });
         </script>
