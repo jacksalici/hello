@@ -1,7 +1,7 @@
 +++
 date = 2020-08-31T22:00:00Z
 description = ""
-draft = true
+draft = false
 keywords = []
 math = false
 slug = "parrocchia-website"
