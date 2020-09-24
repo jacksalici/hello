@@ -12,7 +12,7 @@ theme = "hugo-theme-codex"
 
 
 # Override these settings with your own 
-title = "This is Jack Salici."
+title = "This is Jack Salici.🌵"
 languageCode = "en-us"
 baseURL = "/"
 copyright = "© {year} Giacomo Salici"
