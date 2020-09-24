@@ -12,4 +12,5 @@ toc = true
 As designer there are loads of pages signed by me.  
 Here’re a few of those.
 
-![](/uploads/graphics_1.jpg)![](/uploads/graphics_3.jpg)![](/uploads/graphics_2.jpg)
+
+{{< gallery dir="/uploads/graphics/" />}}{{< load-photoswipe >}}
