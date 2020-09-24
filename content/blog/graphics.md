@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "graphics"
 tags = ["Graphic Design"]
-title = "Graphics"
+title = "Some graphic designs."
 toc = true
 
 +++
