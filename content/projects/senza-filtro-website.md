@@ -1,14 +1,17 @@
-+++
-date = 2018-08-31T22:00:00Z
-description = ""
-keywords = []
-math = false
-slug = "senza-filtro-website"
-tags = ["Web Design"]
-title = "Senza Filtro Website."
-toc = false
+---
+title: Senza Filtro website.
+date: 2019-06-30T22:00:00+00:00
+slug: senza-filtro-website
+description: I made a Wordpress page.
+keywords: []
+tags:
+- Web Design
+math: false
+toc: true
+--- 
 
-+++
+
+
 For my former high school magazine, I’ve created a web site that could reflect the style of the editors. It has been created with WordPress and it is updated regularly by me or by one of my fellows. Since his creation it has been visited thousands of times.
 
 ![](/uploads/senza-filtro.jpg)

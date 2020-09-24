@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "masterclass2020"
 tags = ["Graphic Design"]
-title = "Graphic Design Masterclass."
+title = "Graphic design masterclass."
 toc = false
 
 +++

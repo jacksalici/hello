@@ -6,7 +6,7 @@ keywords = []
 math = false
 slug = "parrocchia-website"
 tags = ["Web Design"]
-title = "Parrocchia di Mirandola Website"
+title = "Mirandola Parish website."
 toc = false
 
 +++

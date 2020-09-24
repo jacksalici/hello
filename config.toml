@@ -70,10 +70,10 @@ copyright = "© {year} Giacomo Salici"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "projects"
+  name = "projects"
+  title = "Projects"
+  url = "/projects"
 
 
 
