@@ -11,4 +11,4 @@ toc = false
 +++
 My former high school asked me to hold a short graphic design masterclass aimed at the students who wanted to design the school magazine.  I decided to speak about Affinity Publisher, an Apple award winner saving-cost desktop publishing app that is perferct for the goal.
 
-![](/uploads/masterclass.png) 
+![](uploads/masterclass.png) 

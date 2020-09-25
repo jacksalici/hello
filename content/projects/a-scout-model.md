@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "a-scout-model"
 tags = ["Crafting"]
-title = "A scout model"
+title = "A scout model."
 toc = false
 
 +++

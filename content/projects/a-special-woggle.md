@@ -13,4 +13,4 @@ toc = false
 
 🇮🇹 Il 2 aprile 2016 il Santo Padre è venuto in visita apostolica presso la mia Diocesi di Carpi. Per l’occasione il gruppo Scout della mia città ha deciso di portare in dono il Fazzolettone che noi scout ci mettiamo al collo. Mi è stato chiesto di creare il nodo che lo tiene chiuso.
 
-{{< gallery dir="/uploads/woggle/" />}}{{< load-photoswipe >}}
+{{< gallery dir="uploads/woggle/" />}}{{< load-photoswipe >}}
