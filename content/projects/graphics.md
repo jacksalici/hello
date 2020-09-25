@@ -4,7 +4,7 @@ description = "Some of my designs."
 keywords = []
 math = false
 slug = "graphics"
-tags = ["Graphic Design"]
+tags = ["Graphic-Design"]
 title = "Some graphic designs."
 toc = true
 

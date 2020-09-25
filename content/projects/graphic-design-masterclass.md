@@ -4,7 +4,7 @@ description = "That time I give a graphic design Masterclass (a sort of)."
 keywords = []
 math = false
 slug = "masterclass2020"
-tags = ["Graphic Design"]
+tags = ["Graphic-Design"]
 title = "Graphic design masterclass."
 toc = false
 
