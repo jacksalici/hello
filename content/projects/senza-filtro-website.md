@@ -5,7 +5,7 @@ slug: senza-filtro-website
 description: I made a Wordpress page.
 keywords: []
 tags:
-- Web Design
+- Web-Design
 math: false
 toc: true
 --- 

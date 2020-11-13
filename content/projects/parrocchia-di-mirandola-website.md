@@ -5,7 +5,7 @@ draft = false
 keywords = []
 math = false
 slug = "parrocchia-website"
-tags = ["Web Design"]
+tags = ["Web-Design"]
 title = "Mirandola Parish website."
 toc = false
 

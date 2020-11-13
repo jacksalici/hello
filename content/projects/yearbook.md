@@ -5,7 +5,7 @@ slug: yearbook
 description: I made the 2019 yearbook.
 keywords: []
 tags:
-- Graphic Design
+- Graphic-Design
 math: false
 toc: true
 ---

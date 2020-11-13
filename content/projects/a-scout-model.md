@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "a-scout-model"
 tags = ["Crafting"]
-title = "A scout model"
+title = "A scout model."
 toc = false
 
 +++
@@ -14,4 +14,4 @@ toc = false
 🇮🇹 Durante il mio ultimo anno come Esploratore ho acquisito il brevetto di mani abili e come prova ho, fra le altre cose, dovuto riprodurre in scala 1:20 un modellino di un angolo di squadriglia al campo. Sono molto soddisfatto di come è venuto, anche perché è molto simile all’angolo della sq. di cui sono stato capo per due anni, i Bisonti.
 
 
-{{< gallery dir="/uploads/model/" />}}{{< load-photoswipe >}}
+{{< gallery dir="uploads/model/" />}}{{< load-photoswipe >}}
