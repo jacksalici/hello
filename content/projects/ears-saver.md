@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "ear-saver"
 tags = ["Crafting"]
-title = "Ear saver against mask pain."
+title = "Against the mask pain."
 toc = false
 
 +++

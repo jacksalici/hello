@@ -1,7 +1,8 @@
-baseURL = "https://jacksalici.com"
+baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "This is Jack Salici"
+theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -10,7 +11,8 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "272221850"
+tagId = "G-ERD6XZB2P5"
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -54,8 +56,7 @@ contentratio = 0.6
         title = "Reddit"
         url = "https://reddit.com/u/jacksalici"
    
-      [[params.socialIcons]]
+    [[params.socialIcons]]
         icon = "fab fa-telegram-plane"
         title = "Telegram"
         url = "https://t.me/jacksalici"
-

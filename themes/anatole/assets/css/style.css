@@ -19,6 +19,7 @@
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
     --body-max-width: 1920px;
+
     --content-ratio: {{ .Site.Params.contentratio | default 0.6 }};
     --sidebar-ratio: calc(1 - var(--content-ratio));
     --content-max-width: calc(var(--body-max-width) * var(--content-ratio));
@@ -39,9 +40,9 @@ html[data-theme='dark'] {
     --pre-bg-color: rgb(33, 33, 45);
     --nav-text-color: rgb(255, 255, 255);
     --tag-color: rgb(255, 255, 255);
-    --blockquote-text-color: #808080;
+    --blockquote-text-color: #ffffff;
     --blockquote-border-color: #ffffff;
-    --link-color: #58fecc;
+    --link-color: #ffffff;
     --list-color: #fff;
 }
 
@@ -286,7 +287,7 @@ a:active {
 
 .sidebar .logo-title {
     text-align: center;
-    padding-top: 240px;
+    padding-top: 20%;
     flex: 1;
 }
 
@@ -314,7 +315,7 @@ a:active {
 }
 
 .sidebar .logo-title .title img {
-    width: 200px;
+    width: 35%;
     border-radius: 50%;
 }
 
@@ -363,6 +364,14 @@ a:active {
 .post {
     background-color: var(--bg-color);
     margin: 30px;
+}
+
+@media screen and (min-width: 1200px) {
+    .post {
+    background-color: var(--bg-color);
+    margin: 30px;
+    margin-right: 30%;
+}
 }
 
 .post .post-title h1 {

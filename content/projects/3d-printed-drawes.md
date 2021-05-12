@@ -5,7 +5,7 @@ keywords = []
 math = false
 slug = "3d-printed-drawers"
 tags = ["Crafting"]
-title = "LACK OF DRAWERS."
+title = "Lack of drawers."
 toc = false
 summary = "I modded my Ikea Table 3d printing some stuffs."
 

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is Jack Salici</title>
+    <link>https://jacksalici.com/</link>
+    <description>Recent content on This is Jack Salici</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jacksalici.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LACK OF DRAWERS.</title>
+      <link>https://jacksalici.com/projects/3d-printed-drawers/</link>
+      <pubDate>Wed, 17 Mar 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/projects/3d-printed-drawers/</guid>
+      <description>I modded my Ikea Table 3d printing some stuffs.</description>
+    </item>
+    
+    <item>
+      <title>Just another website.</title>
+      <link>https://jacksalici.com/projects/parish-website/</link>
+      <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/projects/parish-website/</guid>
+      <description>I create a new version of the website of my parish, using Wordpress, Elementor, Ocean WP and several plugin.</description>
+    </item>
+    
+    <item>
+      <title>Ear saver against mask pain.</title>
+      <link>https://jacksalici.com/projects/ear-saver/</link>
+      <pubDate>Thu, 02 Jul 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/projects/ear-saver/</guid>
+      <description>During the Covid-19 emergency, with the aim of reduce the ear pain caused by wearing the mask for several hours, I designed this ear saver that can be 3d printed in a few minutes.</description>
+    </item>
+    
+    <item>
+      <title>A school yearbook.</title>
+      <link>https://jacksalici.com/projects/yearbook/</link>
+      <pubDate>Sun, 30 Jun 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/projects/yearbook/</guid>
+      <description>During my last year of high school, I took care of the creation of the school yearbook.</description>
+    </item>
+    
+    <item>
+      <title>A scout model.</title>
+      <link>https://jacksalici.com/projects/a-scout-model/</link>
+      <pubDate>Sat, 02 Jul 2016 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/projects/a-scout-model/</guid>
+      <description>During my last year as a boy scout, I&amp;rsquo;ve achieve the craftman badge and as test I had to reproduce a 1:20 scale model of a patrol area during the campouts.</description>
+    </item>
+    
+  </channel>
+</rss>

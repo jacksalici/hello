@@ -10,5 +10,5 @@ title = "Just another website."
 toc = false
 
 +++
-I create a [new](parrocchiamirandola.it) version of the website of my parish, using Wordpress, Elementor, Ocean WP and several plugin.
+I create a [new](https://parrocchiamirandola.it) version of the website of my parish, using Wordpress, Elementor, Ocean WP and several plugin.
 

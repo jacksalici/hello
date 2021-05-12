@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on This is Jack Salici</title>
+    <link>https://jacksalici.com/tags/</link>
+    <description>Recent content in Tags on This is Jack Salici</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jacksalici.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crafting</title>
+      <link>https://jacksalici.com/tags/crafting/</link>
+      <pubDate>Wed, 17 Mar 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/tags/crafting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebDesign</title>
+      <link>https://jacksalici.com/tags/webdesign/</link>
+      <pubDate>Mon, 31 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/tags/webdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphicDesign</title>
+      <link>https://jacksalici.com/tags/graphicdesign/</link>
+      <pubDate>Sun, 30 Jun 2019 22:00:00 +0000</pubDate>
+      
+      <guid>https://jacksalici.com/tags/graphicdesign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
