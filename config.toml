@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 # Google Analytics
 googleAnalytics = "272221850"
-tagId = "G-ERD6XZB2P5"
+
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -20,6 +20,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+tagId = "G-ERD6XZB2P5"
 title = "I'm Jack Salici."
 author = "Jack Salici"
 description = "I'm a nerdy, 21 yo boy that pathologically procrastinate duties. I also have flaws. I am studying computer engineering at the University of Modena and Reggio Emilia and visual design on my own becouse if robot will conquest this planet at least they should be gorgeous."
