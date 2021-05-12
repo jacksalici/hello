@@ -2,7 +2,6 @@ baseURL = "https://jacksalici.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "This is Jack Salici"
-theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -55,5 +54,8 @@ contentratio = 0.6
         title = "Reddit"
         url = "https://reddit.com/u/jacksalici"
    
-      
+      [[params.socialIcons]]
+        icon = "fab fa-telegram-plane"
+        title = "Telegram"
+        url = "https://t.me/jacksalici"
 
