@@ -4,12 +4,11 @@ description = ""
 draft = false
 keywords = []
 math = false
-slug = "parrocchia-website"
-tags = ["Web-Design"]
-title = "Mirandola Parish website."
+slug = "parish-website"
+tags = ["WebDesign"]
+title = "Just another website."
 toc = false
 
 +++
-I create a new version of the website of my parish, using Wordpress, Elementor, Ocean WP and several plugin.
+I create a [new](parrocchiamirandola.it) version of the website of my parish, using Wordpress, Elementor, Ocean WP and several plugin.
 
-[Here is the website.](parrocchiamirandola.it)

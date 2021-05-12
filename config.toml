@@ -1,42 +1,56 @@
+baseURL = "https://jacksalici.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "This is Jack Salici"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
 
-# DO NOT REMOVE THIS
-theme = "hallo" 
+# Enable Disqus
+#disqusShortname = ""
 
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+# Google Analytics
+#googleAnalytics = "UA-123-45"
 
-[Author]
-    name = "Jack"
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 [params]
+title = "I'm Jack Salici."
+author = "Jack Salici"
+description = "I'm a nerdy, 21 yo boy that pathologically procrastinate duties. I also have flaws. I am studying computer engineering at the University of Modena and Reggio Emilia and visual design on my own becouse if robot will conquest this planet at least they should be gorgeous."
+profilePicture = "images/portrait.jpg"
+copyright = "2018-2021"
 
-    [[params.links]]
-        iconset = "fas"
-        icon = "envelope"
+doNotLoadAnimations = true # Animations are loaded by default
+
+singleDateFormat = "Jan 2006"
+indexDateFormat = "Jan 2006"
+listDateFormat = "Jan 2006"
+
+ [[params.socialIcons]]
+        icon = "fas fa-envelope"
         title = "E-mail"
         url = "mailto:hi@jacksalici.com"
 
-    [[params.links]]
-        icon = "github"
+    [[params.socialIcons]]
+        icon = "fab fa-github"
         title = "Github"
         url = "https://github.com/jacksalici"
 
-    [[params.links]]
-        icon = "twitter"
+    [[params.socialIcons]]
+        icon = "fab fa-twitter"
         title = "Twitter"
         url = "https://twitter.com/jacksalici"
 
-    [[params.links]]
-        icon = "reddit"
+    [[params.socialIcons]]
+        icon = "fab fa-reddit-alien"
         title = "Reddit"
         url = "https://reddit.com/u/jacksalici"
+   
       
-
-
-
-[params.colors]
-        background = "#2C315D"
-        foreground = "#D7CAA1"
-        hover = "#8ECAA1"
-
-        
-defaultContentLanguage = "nl"
+displayMode = "dark"
+contentratio = 0.9

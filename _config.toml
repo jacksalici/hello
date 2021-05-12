@@ -113,3 +113,45 @@ pygmentscodefencesguesssyntax = true
 
 
        
+
+# DO NOT REMOVE THIS
+theme = "hallo" 
+
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Jack"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:hi@jacksalici.com"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/jacksalici"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/jacksalici"
+
+    [[params.links]]
+        icon = "reddit"
+        title = "Reddit"
+        url = "https://reddit.com/u/jacksalici"
+      
+
+
+
+[params.colors]
+        background = "#2C315D"
+        foreground = "#D7CAA1"
+        hover = "#8ECAA1"
+
+        
+defaultContentLanguage = "nl"
