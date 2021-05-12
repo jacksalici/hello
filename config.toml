@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "I'm Jack Salici."
 author = "Jack Salici"
 description = "I'm a nerdy, 21 yo boy that pathologically procrastinate duties. I also have flaws. I am studying computer engineering at the University of Modena and Reggio Emilia and visual design on my own becouse if robot will conquest this planet at least they should be gorgeous."
-profilePicture = "images/portrait.jpg"
+profilePicture = "/images/portrait.jpg"
 copyright = "2018-2021"
 
 doNotLoadAnimations = true # Animations are loaded by default
@@ -30,6 +30,10 @@ doNotLoadAnimations = true # Animations are loaded by default
 singleDateFormat = "Jan 2006"
 indexDateFormat = "Jan 2006"
 listDateFormat = "Jan 2006"
+
+displayMode = "dark"
+disableThemeSwitcher = true
+contentratio = 0.6
 
  [[params.socialIcons]]
         icon = "fas fa-envelope"
@@ -52,5 +56,4 @@ listDateFormat = "Jan 2006"
         url = "https://reddit.com/u/jacksalici"
    
       
-displayMode = "dark"
-contentratio = 0.9
+
