@@ -12,4 +12,4 @@ toc = false
 During my last year as a boy scout, I've achieve the craftman badge and as test I had to reproduce a 1:20 scale model of a patrol area during the campouts. I so proud of the resoluts, alse becouse is very much similar to what my patrol actually build during the scout camp.
 
 
-{{< gallery dir="uploads/model/" />}}{{< load-photoswipe >}}
+{{< gallery dir="/uploads/model/" />}}{{< load-photoswipe >}}
