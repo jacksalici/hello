@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://jacksalici.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "This is Jack Salici"
@@ -20,6 +20,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+headdescription = "Blog and website of Jack Salici."
 gtagId = "G-ERD6XZB2P5"
 title = "I'm Jack Salici."
 author = "Jack Salici"

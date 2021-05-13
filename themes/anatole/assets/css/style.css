@@ -301,12 +301,17 @@ a:active {
     font-size: 14px;
     margin: 0 1em;
     }
+
+    .sidebar .logo-title{
+        padding-top: 0px;
+    }
     .sidebar{
         z-index: 3;
-        height: 100vh;
+        height: 80vh;
+        margin-top: 0;
     }
     .content{
-        margin-top: 100vh !important;
+        margin-top: 80vh !important;
     }
 }
 
@@ -932,6 +937,12 @@ a.btn {
 
 @media screen and (max-width: 960px),
 print {
+
+    .page-top{
+        display: none;
+        background-color: #00142e00;
+    }
+
     .sidebar {
         width: 100%;
         position: absolute;
@@ -940,7 +951,7 @@ print {
     }
 
     .sidebar .logo-title {
-        padding-top: 120px;
+        padding-top: 20px;
     }
 
     .sidebar .logo-title .title img {
